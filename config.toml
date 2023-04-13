@@ -1,16 +1,16 @@
 baseURL = "https://dwojcik92.github.io/"
 languageCode = "en-us"
-title = "DWojcik Log"
+title = "D.Wójcik Log"
 theme = "m10c"
 
 [params]
   author = "Dariusz Wójcik"
-  description = "A blog about all things technical."
+  description = "A blog about my journey through the world of machine learning."
 
   [[params.social]]
     icon = "github"
     name = "GitHub"
-    url = "https://github.com/ChristopherJHart"
+    url = "https://github.com/dwojcik92"
 
   [[params.social]]
     icon = "twitter"
