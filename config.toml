@@ -1,4 +1,4 @@
-baseURL = "https://dwojcik92.github.io/personal_blog"
+baseURL = "https://dwojcik92.github.io/"
 languageCode = "en-us"
 title = "DWojcik Log"
 theme = "m10c"
