@@ -1,3 +1,18 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = "https://dwojcik.github.io/personal_blog"
+languageCode = "en-us"
+title = "DWojcik Log"
+theme = "m10c"
+
+[params]
+  author = "Dariusz Wójcik"
+  description = "A blog about all things technical."
+
+  [[params.social]]
+    icon = "github"
+    name = "GitHub"
+    url = "https://github.com/ChristopherJHart"
+
+  [[params.social]]
+    icon = "twitter"
+    name = "Twitter"
+    url = "https://twitter.com/DariuszPWojcik"
