@@ -1,7 +1,7 @@
 baseURL = "https://dwojcik92.github.io/"
 
 theme = "LoveIt"
-title = "D.Wójcik Log"
+title = "CS with D.Wójcik"
 languageCode = "en"
 languageName = "English"
 
@@ -41,6 +41,7 @@ languageName = "English"
     url = "/categories/"
     title = ""
 
+
 [params]
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
@@ -69,7 +70,7 @@ languageName = "English"
       # URL of the LOGO
       logo = ""
       # title name
-      name = "D.Wójcik log"
+      name = "D.Wójcik Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons

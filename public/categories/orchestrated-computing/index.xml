@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Orchestrated Computing - Category - CS with D.Wójcik</title>
+        <link>http://localhost:1313/categories/orchestrated-computing/</link>
+        <description>Orchestrated Computing - Category - CS with D.Wójcik</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</managingEditor>
+            <webMaster>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</webMaster><atom:link href="http://localhost:1313/categories/orchestrated-computing/" rel="self" type="application/rss+xml" /></channel>
+</rss>

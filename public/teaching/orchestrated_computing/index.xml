@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dockerize Your Web Application with Ease on CS with D.Wójcik</title>
+    <link>http://localhost:1313/teaching/orchestrated_computing/</link>
+    <description>Recent content in Dockerize Your Web Application with Ease on CS with D.Wójcik</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</managingEditor>
+    <webMaster>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</webMaster>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/teaching/orchestrated_computing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

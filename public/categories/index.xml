@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Teaching - Category - CS with D.Wójcik</title>
+        <link>http://localhost:1313/categories/</link>
+        <description>Teaching - Category - CS with D.Wójcik</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</managingEditor>
+            <webMaster>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</webMaster><lastBuildDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Orchestrated Computing</title>
+    <link>http://localhost:1313/categories/oc/</link>
+    <pubDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</pubDate>
+    <author>Dariusz Wójcik</author>
+    <guid>http://localhost:1313/categories/oc/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

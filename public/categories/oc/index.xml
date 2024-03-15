@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Orchestrated Computing - Category - CS with D.Wójcik</title>
+        <link>http://localhost:1313/categories/oc/</link>
+        <description>Orchestrated Computing - Category - CS with D.Wójcik</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</managingEditor>
+            <webMaster>dariusz.patryk.wojcik@gmail.com (Dariusz Wójcik)</webMaster><lastBuildDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/categories/oc/" rel="self" type="application/rss+xml" /><item>
+    <title>Docker - 101</title>
+    <link>http://localhost:1313/posts/docker-101/</link>
+    <pubDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</pubDate>
+    <author>Dariusz Wójcik</author>
+    <guid>http://localhost:1313/posts/docker-101/</guid>
+    <description><![CDATA[Are you ready to containerize your web application effortlessly? Docker provides a convenient solution to package your application into a portable, isolated environment, ensuring consistency across different platforms. In this guide, we&rsquo;ll walk through the steps to dockerize your web application using a simple example project.
+Set Up the Environment Before diving into Dockerizing your web app, ensure you have Docker installed on your system. You can verify this by running the following command in your terminal:]]></description>
+</item>
+<item>
+    <title>Docker - 102</title>
+    <link>http://localhost:1313/posts/docker-102/</link>
+    <pubDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</pubDate>
+    <author>Dariusz Wójcik</author>
+    <guid>http://localhost:1313/posts/docker-102/</guid>
+    <description><![CDATA[Welcome to our comprehensive guide on Dockerized microservices architecture! In this tutorial, we&rsquo;ll take a deep dive into setting up a microservices architecture using Docker Compose, complete with detailed code examples for each microservice.
+Set Up the Environment Before we dive into Docker Compose, ensure you have it installed on your system:
+docker-compose --version Create a project directory for our microservices architecture:
+mkdir docker_microservices cd docker_microservices Create Docker Compose YAML File Start by creating a docker-compose.]]></description>
+</item>
+<item>
+    <title>Docker - 103</title>
+    <link>http://localhost:1313/posts/docker-103/</link>
+    <pubDate>Fri, 15 Mar 2024 00:00:00 &#43;0000</pubDate>
+    <author>Dariusz Wójcik</author>
+    <guid>http://localhost:1313/posts/docker-103/</guid>
+    <description><![CDATA[Buiding a Pipeline Using Containers
+This exercise demonstrates how to build a pipeline composed of independent containers whose goal is to train a machine learning model on-demand.
+The workflow Dockerfile for app Path: ./app/Dockerfile
+# Use the official Python image as base FROM python:3.9-slim # Install Flask RUN pip install Flask requests # Set the working directory in the container WORKDIR /app # Copy the current directory contents into the container at /app COPY .]]></description>
+</item>
+</channel>
+</rss>
