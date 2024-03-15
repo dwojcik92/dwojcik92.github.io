@@ -189,27 +189,6 @@ if __name__ == '__main__':
 
 ---
 
-### README File
-
-**Path:** `./README.md`
-
-```markdown
-# Building a Pipeline Using Containers
-
-This exercise demonstrates how to build a pipeline composed of independent containers whose goal is to train a machine learning model on-demand.
-
-**TODO:**
-- [ ] Load CSV file data from OpenML into a MySQL database.
-- [ ] Develop a preprocessing process.
-- [ ] Develop a training process.
-- [ ] The app should be a Gradio application with an interface and the ability to preview data from the database.
-```
-
-**Explanation:**
-- This Markdown file outlines the purpose of the project and lists tasks to be completed.
-
----
-
 ### Dockerfile for `train`
 
 **Path:** `./train/Dockerfile`
@@ -267,9 +246,7 @@ if __name__ == '__main__':
 
 ---
 
-### Dockerfile for `
-
-db`
+### Dockerfile for `db`
 
 **Path:** `./db/Dockerfile`
 
