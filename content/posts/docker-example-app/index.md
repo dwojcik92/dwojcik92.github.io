@@ -1,7 +1,7 @@
 ---
 title: "Docker - Example Apps"
 author: "Dariusz Wójcik"
-date: 2024-03-15
+date: 2024-04-05
 draft: false
 tags: ["Docker", "Web Development", "DevOps"]
 categories: ["oc"]
